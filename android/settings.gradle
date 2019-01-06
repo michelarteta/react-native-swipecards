@@ -1,0 +1,3 @@
+rootProject.name = 'swipeCards'
+
+include ':app'
